@@ -1,0 +1,16 @@
+#main2{
+    display: flex;
+    justify-content: center;
+    
+}
+.main{
+    background-image: linear-gradient(to bottom right,orange,white,green);
+    margin:300px;
+    width: 700px;
+    height: 500px;
+    text-align: center;
+    padding:150px;
+    font-size: large;
+    font-weight: bolder;
+    color: blue;
+}
